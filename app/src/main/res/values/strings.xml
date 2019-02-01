@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MusicSignature</string>
+
+    <string name="network_channel">Channel</string>
+
+    <string name="pref_general">General</string>
+    <string name="pref_scan_interval">Scan interval</string>
+    <string name="pref_network_order">Network order</string>
+    <string name="pref_switch_wifi_off_when_not_scanning">Save battery</string>
+    <string name="pref_switch_wifi_off_when_not_scanning_summary">Switch off WiFi after usage</string>
+
+    <string name="toast_wifi_enabled">WiFi automatically enabled</string>
+
+    <string name="about_message" translatable="false">
+	</string>
+
+    <string name="copyright_kd_all_rights_reseved">Copyright@ WANTREEZ All rights reseved.</string>
+
+
+</resources>
